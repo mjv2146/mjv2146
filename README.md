@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Technologies
+### Programming
 [![Coding](https://skillicons.dev/icons?i=py,r,matlab&theme=light)](https://skillicons.dev)
 
 ### Coding Environment
