@@ -2,7 +2,7 @@
 
 
 ### Programming
-[![Coding](https://skillicons.dev/icons?i=py,r,matlab&theme=light)](https://skillicons.dev)
+[![Coding](https://skillicons.dev/icons?i=py,postgres,r,matlab&theme=light)](https://skillicons.dev)
 
 ### Coding Environment
 [![Coding Environment](https://skillicons.dev/icons?i=vscode,vim&theme=light)](https://skillicons.dev)
