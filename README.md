@@ -1,10 +1,20 @@
-### Hi there 👋
+## Welcome!
+- I am PhD Candidate in Economics at Columbia University.
+- My research focuses on computational economics, driven by household level data.
+
+### My Skills
+Programming: Python, Matlab
+
+[![Coding](https://skillicons.dev/icons?i=py,matlab&theme=light)](https://skillicons.dev)
 
 
-### Programming
-[![Coding](https://skillicons.dev/icons?i=py,postgres,r,matlab&theme=light)](https://skillicons.dev)
+Database: SQL (Postgres)
 
-### Coding Environment
+[![Database](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+
+
+Coding: VS Code, Vim
+
 [![Coding Environment](https://skillicons.dev/icons?i=vscode,vim&theme=light)](https://skillicons.dev)
 
 
