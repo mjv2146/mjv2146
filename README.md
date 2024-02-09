@@ -28,7 +28,7 @@ Coding: VS Code, Vim, Git
 
 ### [Tableau Profile](https://public.tableau.com/app/profile/mitchell.vaughn4481/vizzes)
 - :world_map: [World Development Indicators](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/world-development-indicators/Story1) 
-- :atm:[Access to Financial Markets](https://github.com/mjv2146/access-to-financial-markets) 
+- :atm: [Access to Financial Markets](https://github.com/mjv2146/access-to-financial-markets) 
 - :chart_with_upwards_trend: [Interest Rates in Emerging Markets](https://public.tableau.com/app/profile/mitchell.vaughn4481/viz/AccesstoFinancialMarkets_17064813522530/AccesstoFinancialMarketsinMexico)  
 
 <!--
