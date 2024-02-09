@@ -3,9 +3,9 @@
 - My research focuses on computational economics, driven by household level data.
 
 ### My Skills
-Programming: Python, Matlab
+Programming: Python (Pandas, NumPy, seaborn, Matplotlib)
 
-[![Coding](https://skillicons.dev/icons?i=py,matlab&theme=light)](https://skillicons.dev)
+[![Coding](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)
 
 
 Database: SQL (Postgres)
@@ -13,9 +13,9 @@ Database: SQL (Postgres)
 [![Database](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
 
-Coding: VS Code, Vim
+Coding: VS Code, Vim, Git
 
-[![Coding Environment](https://skillicons.dev/icons?i=vscode,vim&theme=light)](https://skillicons.dev)
+[![Coding Environment](https://skillicons.dev/icons?i=vscode,vim,git&theme=light)](https://skillicons.dev)
 
 
 
