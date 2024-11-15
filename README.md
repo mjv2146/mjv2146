@@ -1,5 +1,4 @@
-- :wave: I am PhD Candidate in Economics at Columbia University.
-- I use data to derive insights about how the world works.
+- :wave: I am an assistant professor of economics at Elon University
 
 ### :hammer_and_wrench: My Tools
 Programming: Python (Pandas, NumPy, seaborn, Matplotlib)
